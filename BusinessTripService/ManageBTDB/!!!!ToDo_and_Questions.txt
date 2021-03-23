@@ -1,0 +1,11 @@
+﻿
+QUESTIONS:
+1. Is SET{} method of entitiy-class's property a good way for realizing validation when new instance of entity is creating?
+2. When one class's property in it's set method refers another property of the class should it refer the property
+or it's private field to boost productivity (I suppose that incapsulation principles are not broken when refer private field) ?
+
+
+
+TODO:
+1. Apply method AsNoTracking() for implementation READ methods
+2. Add (what table-entity is the best for it?) property "prePay" 

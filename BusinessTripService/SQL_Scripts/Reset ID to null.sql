@@ -1,0 +1,1 @@
+DBCC CHECKIDENT (TransitRates, RESEED, 0)

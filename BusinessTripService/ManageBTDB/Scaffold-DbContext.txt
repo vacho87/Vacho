@@ -1,0 +1,1 @@
+Scaffold-DbContext "server=VACHO-PC; database=BTdb; integrated security=true;" Microsoft.EntityFrameworkCore.SqlServer
